@@ -11,7 +11,7 @@ return [
             'class' => 'yii\db\Connection',
             'dsn' => 'mysql:host=localhost;dbname=eco24_1',
             'username' => 'eco24',
-            'password' => 'Metalloff90909012',
+            'password' => 'put_your_password_here',
             'charset' => 'utf8',
         ],
     ],
